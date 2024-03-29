@@ -1,0 +1,49 @@
+.content {
+    margin: 100px;
+}
+
+.title {
+    display: block;
+    font-size: 40px;
+    padding-left: 35px;
+}
+
+.inp {
+    width: 800px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    background: #ffffff !important;
+    outline: none;
+    font-family: Tahoma;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+
+.inp:focus {
+    color: #000000;
+    border: 1px solid #000000
+}
+
+.component {
+    padding: 20px;
+    position: relative
+}
+
+.subtitle {
+    display: inline-block;
+    margin: 20px;
+    width: 200px;
+    font-weight: 300;
+}
+
+.title1 {
+    display: block;
+    padding-left: 35px;
+}
+
+.butt {
+    margin: 50px;
+    margin-left: 35px;
+}
